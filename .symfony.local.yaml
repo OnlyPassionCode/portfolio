@@ -1,5 +1,0 @@
-workers:
-    tailwind:
-        cmd: ['sy', 'console', 'tailwind:build', '--watch']
-    typescript:
-        cmd: ['sy', 'console', 'typescript:build', '--watch']
